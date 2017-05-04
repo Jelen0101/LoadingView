@@ -15,6 +15,7 @@
 ```
 
 <h6>App Gradle:
+
 ```
    dependencies {
    	        compile 'com.github.Jelen0101:LoadingView:v1.0.0'
