@@ -2,7 +2,7 @@
 <h1>Usage</h1>
 
 <h4>Step 1</h4>
-*Project Gradle:*
+<h6>Project Gradle:</h6>
 ```
     allprojects {
         repositories {
@@ -11,7 +11,7 @@
             }
             }
 ```
-*App Gradle:*
+<h6>App Gradle:</h6>
 ```
    dependencies {
    	        compile 'com.github.Jelen0101:LoadingView:v1.0.0'
