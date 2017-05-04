@@ -1,8 +1,10 @@
 ![](image1.png)
-<h1>Usage</h1>
+<h1>Usage
 
-<h4>Step 1</h4>
-<h6>Project Gradle:</h6>
+<h4>Step 1
+
+<h6>Project Gradle:
+
 ```
     allprojects {
         repositories {
@@ -11,13 +13,16 @@
             }
             }
 ```
-<h6>App Gradle:</h6>
+
+<h6>App Gradle:
 ```
    dependencies {
    	        compile 'com.github.Jelen0101:LoadingView:v1.0.0'
    	}
 ```
-<h4>Step 2</h4>
+
+<h4>Step 2
+
 ```java
   mLoadingView = new LoadingView.Builder(this)
                 .text("加载中")
@@ -26,4 +31,5 @@
 ```
 
 <h1>Thanks</h1>
+
 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
